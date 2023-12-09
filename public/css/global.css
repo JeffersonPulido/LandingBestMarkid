@@ -1,0 +1,25 @@
+/* Importacion fuentes */
+/*Quicksand*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
+/*Fontspring Demo*/
+@font-face {
+    font-family: FontSpringRegular;
+    src: url(/fonts/fontspring-regular.otf);
+}
+
+@font-face {
+    font-family: FontSpringBold;
+    src: url(/fonts/fontspring-bold.otf);
+}
+/* Variables generales */
+:root{
+    /* Colores */
+    --orange: #ff5a23;
+    --darkGreen: #03624e;
+    --lightGreen: #00b288;
+    --redBlood: #9e1b0e;
+    /* Fuente general */
+    --fontGeneral: 'Quicksand', sans-serif;
+    --fontTitleRegular: 'FontSpringRegular';
+    --fontTitleBold: 'FontSpringBold';
+}

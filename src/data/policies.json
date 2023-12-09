@@ -1,0 +1,48 @@
+{
+    "policiesBestMarkid": [
+      {
+        "id": 10,
+        "title": "Política de Tratamiento de Datos Personales de Best MarkID - Versión Colombia",
+        "description": "Best MarkID reconoce la importancia de la privacidad y la protección de datos personales en cumplimiento con la legislación colombiana de protección de datos, especialmente la Ley 1581 de 2012 y el Decreto 1377 de 2013. Esta política establece los principios y prácticas para el tratamiento de datos personales de acuerdo con las leyes de privacidad y protección de datos aplicables en Colombia.",
+        "politica": [
+          {
+            "id": 11,
+            "subtitle":"Alcance",
+            "description1": "Esta política se aplica a todos los datos personales recopilados, procesados y almacenados por Best MarkID en el curso de sus operaciones comerciales en Colombia",
+            "subtitle2": "Principios de Protección de Datos",
+            "description2": "Legalidad y Transparencia: Best MarkID tratará los datos personales de manera lícita, justa y transparente, informando a los individuos sobre la recopilación y el uso de sus datos, conforme a la Ley 1581 de 2012.\n\n Finalidad: Los datos personales serán recopilados con fines específicos y legítimos y no se procesarán de manera incompatible con esos fines, de acuerdo con la normativa colombiana.\n Best MarkID limitará la recopilación de datos personales a lo estrictamente necesario para los fines previstos, siguiendo los principios de proporcionalidad establecidos por la ley colombiana.\n Nos esforzamos por garantizar que los datos personales sean precisos y estén actualizados cuando sea necesario, conforme a los derechos de los titulares de datos colombianos.",    
+            "subtitle3": "Esta política",
+            "description3":"Este es un mensaje con un\nsalto de línea.",
+            "subtitle3": "Esta política",
+            "description3":"Este es un mensaje con un\nsalto de línea.",
+            "subtitle3": "Esta política",
+            "description3":"Este es un mensaje con un\nsalto de línea.",
+            "subtitle3": "Esta política",
+            "description3":""
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Política de Tratamiento de Datos Personales de Best MarkID - Versión Colombia",
+        "description": "Best MarkID reconoce la importancia de la privacidad y la protección de datos personales en cumplimiento con la legislación colombiana de protección de datos, especialmente la Ley 1581 de 2012 y el Decreto 1377 de 2013. Esta política establece los principios y prácticas para el tratamiento de datos personales de acuerdo con las leyes de privacidad y protección de datos aplicables en Colombia.",
+        "politica": [
+          {
+            "id": 11,
+            "subtitle":"Alcance",
+            "description1": "Esta política se aplica a todos los datos personales recopilados, procesados y almacenados por Best MarkID en el curso de sus operaciones comerciales en Colombia",
+            "subtitle2": "Esta política",
+            "description2":"descripcion2",
+            "subtitle3": "Esta política",
+            "description3":"descripcion3",
+            "subtitle3": "Esta política",
+            "description3":"descripcion3",
+            "subtitle3": "Esta política",
+            "description3":"descripcion3",
+            "subtitle3": "Esta política",
+            "description3":"descripcion3"
+          }
+        ]
+      }
+    ]
+  }
