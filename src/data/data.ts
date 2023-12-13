@@ -15,35 +15,35 @@ export const TEXTS = [
     {
         id: 2,
         name: "¿Que hacemos?",
-        image: "/images/logo-confianza.png",
+        image: "/images/logo-confianza.webp",
         description:
             "En Best Markid, nos dedicamos a revolucionar la forma en que compradores y vendedores interactúan y llevan a cabo sus transacciones. Nuestra misión es crear un espacio digital donde la confianza, la eficiencia y la seguridad se fusionen para ofrecer una experiencia única.",
     },
     {
         id: 3,
         name: "¿Descubre Cómo Transformamos Transacciones?",
-        image: "/images/engran.png",
+        image: "/images/engran.webp",
         description:
             "En Best Markid simplificamos cada paso. Regístrate, publica tus productos, realiza compras seguras con nuestro respaldo, y relájate mientras coordinamos la logística. ¿Tienes preguntas? Brindamos soporte rápido. Con pagos garantizados y construcción de reputación, cada interacción es confiable. Descubre más sobre nuestra revolución en compras y ventas.",
     },
     {
         id: 4,
         name: "¿Como funciona?",
-        image: "/images/icono_como_pagar.png",
+        image: "/images/icono_como_pagar.webp",
         description:
             "Best Markid esta diseñada para facilitar la conexión entre vendedores y compradores, garantizando una transacción segura y eficiente.",
     },
     {
         id: 5,
         name: "Misión",
-        image: "/images/icono_como_pagar.png",
+        image: "/images/mision.webp",
         description:
             "Nuestra misión es fomentar una comunidad sostenible y consciente al proporcionar una plataforma dedicada a la reutilización de artículos para bebés en excelente estado. Nos esforzamos por ofrecer a las familias una alternativa ecoamigable, promoviendo la circulación responsable de productos infantiles para reducir la huella ambiental y contribuir al bienestar del planeta.",
     },
     {
         id: 6,
         name: "Visión",
-        image: "/images/icono_como_pagar.png",
+        image: "/images/vision.webp",
         description:
             "Nuestra misión es fomentar una comunidad sostenible y consciente al proporcionar una plataforma dedicada a la reutilización de artículos para bebés en excelente estado. Nos esforzamos por ofrecer a las familias una alternativa ecoamigable, promoviendo la circulación responsable de productos infantiles para reducir la huella ambiental y contribuir al bienestar del planeta.",
     },
