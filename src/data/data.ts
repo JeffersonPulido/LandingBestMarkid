@@ -45,6 +45,6 @@ export const TEXTS = [
         name: "Visión",
         image: "/images/vision.webp",
         description:
-            "Nuestra misión es fomentar una comunidad sostenible y consciente al proporcionar una plataforma dedicada a la reutilización de artículos para bebés en excelente estado. Nos esforzamos por ofrecer a las familias una alternativa ecoamigable, promoviendo la circulación responsable de productos infantiles para reducir la huella ambiental y contribuir al bienestar del planeta.",
+            "Aspiramos a ser líderes en la creación de un entorno donde la reutilización de productos para bebés sea la norma, no la excepción. Buscamos ser reconocidos como el principal destino en línea que conecta a padres conscientes con artículos de calidad para bebés, al mismo tiempo que abrazamos y fomentamos prácticas comerciales responsables para preservar nuestro entorno para las generaciones futuras. Nuestra visión es la de un mundo donde cada producto utilizado para bebés encuentra un nuevo hogar, contribuyendo así a la construcción de un futuro más sostenible y limpio."
     },
 ];
