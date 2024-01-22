@@ -6,3 +6,4 @@ export { AboutUs } from "./about-us/AboutUs";
 export { Banner } from "./banner/Banner";
 export { Policie } from "./policies/Policie";
 export { BtnDownload } from "./policies/BtnDownload";
+export { Team } from "./team/Team";
