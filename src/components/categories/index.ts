@@ -5,7 +5,7 @@ export const images = [
         width: "30%",
     },
     {
-        url: 'images/categories/juguetes.webp',
+        url: 'images/categories/juguetesCompr.webp',
         title: "Juguetes",
         width: "30%",
     },
@@ -20,12 +20,12 @@ export const images = [
         width: "30%",
     },
     {
-        url: 'images/categories/accesorios.webp',
+        url: 'images/categories/accesoriosCompr.webp',
         title: "Accesorios",
         width: "30%",
     },
     {
-        url: 'images/categories/aseo.webp',
+        url: 'images/categories/aseoCompr.webp',
         title: "Aseo",
         width: "30%",
     },
