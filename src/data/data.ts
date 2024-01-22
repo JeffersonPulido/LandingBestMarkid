@@ -1,50 +1,51 @@
-export const NAME_APP = "Best Markid"
-export const URL_APP = 'google.com'
-export const URL_FACEBOOK = 'google.com'
-export const URL_INSTAGRAM = 'google.com'
-export const URL_LINKEDIN = 'google.com'
-export const SLOGAN = "Reutiliza la magia de la infancia"
+export const NAME_APP = "Best Markid";
+export const URL_APP = "google.com";
+export const URL_FACEBOOK =
+    "https://www.facebook.com/profile.php?id=61554796646429&mibextid=ZbWKwL";
+export const URL_INSTAGRAM = "https://www.instagram.com/bestmarkid/";
+export const URL_TIKTOK = "https://www.tiktok.com/@best.markid";
+export const SLOGAN = "Reutiliza la magia de la infancia";
 export const TEXTS = [
     {
         id: 1,
         name: "¿Quienes Somos?",
-        image: "/images/OSO.webp",
+        image: "/images/cardsInfo/osoImage.webp",
         description:
-            "Best Markid es un emprendimiento con liderazgo femenino que nace de una necesidad identificada a través de nuestra experiencia en el mercado de productos infantiles. Nos apasiona brindar soluciones a las familias ofreciendo una alternativa sostenible y accesible para adquirir artículos infantiles de calidad.",
+            "Best Markid, surge de nuestra experiencia en productos infantiles. Nos apasiona ofrecer soluciones familiares sostenibles y accesibles, proporcionando artículos infantiles de calidad. Descubre una nueva forma de cuidar y consentir a tus pequeños con nosotros.",
     },
     {
         id: 2,
         name: "¿Que hacemos?",
-        image: "/images/logo-confianza.webp",
+        image: "/images/cardsInfo/confianzaImage.webp",
         description:
-            "En Best Markid, nos dedicamos a revolucionar la forma en que compradores y vendedores interactúan y llevan a cabo sus transacciones. Nuestra misión es crear un espacio digital donde la confianza, la eficiencia y la seguridad se fusionen para ofrecer una experiencia única.",
+            "En Best Markid, transformamos la interacción entre compradores y vendedores. Nuestra misión es crear un espacio digital único, fusionando confianza, eficiencia y seguridad. Únete a nosotros para una experiencia revolucionaria en tus transacciones en línea.",
     },
     {
         id: 3,
         name: "¿Descubre Cómo Transformamos Transacciones?",
-        image: "/images/engran.webp",
+        image: "/images/cardsInfo/engranajeImage.webp",
         description:
-            "En Best Markid simplificamos cada paso. Regístrate, publica tus productos, realiza compras seguras con nuestro respaldo, y relájate mientras coordinamos la logística. ¿Tienes preguntas? Brindamos soporte rápido. Con pagos garantizados y construcción de reputación, cada interacción es confiable. Descubre más sobre nuestra revolución en compras y ventas.",
+            "Best Markid simplifica cada paso: regístrate, publica, compra con respaldo, y relájate mientras coordinamos la logística. Soporte rápido para tus preguntas, pagos garantizados y construcción de reputación. Descubre nuestra revolución en compras y ventas, donde cada interacción es confiable.",
     },
     {
         id: 4,
         name: "¿Como funciona?",
-        image: "/images/icono_como_pagar.webp",
+        image: "/images/cardsInfo/transaccionImage.webp",
         description:
-            "Best Markid esta diseñada para facilitar la conexión entre vendedores y compradores, garantizando una transacción segura y eficiente.",
+            "Best Markid facilita la conexión entre vendedores y compradores, asegurando transacciones seguras y eficientes. Diseñada para simplificar tu experiencia de compra y venta. Únete a nosotros y descubre la comodidad en cada interacción.",
     },
     {
         id: 5,
         name: "Misión",
-        image: "/images/mision.webp",
+        image: "/images/cardsInfo/misionImage.webp",
         description:
-            "Nuestra misión es fomentar una comunidad sostenible y consciente al proporcionar una plataforma dedicada a la reutilización de artículos para bebés en excelente estado. Nos esforzamos por ofrecer a las familias una alternativa ecoamigable, promoviendo la circulación responsable de productos infantiles para reducir la huella ambiental y contribuir al bienestar del planeta.",
+            "Nuestra misión en Best Markid es crear una comunidad sostenible y consciente mediante la reutilización de artículos para bebés. Ofrecemos una alternativa ecoamigable, promoviendo la circulación responsable de productos infantiles para reducir la huella ambiental y contribuir al bienestar del planeta.",
     },
     {
         id: 6,
         name: "Visión",
-        image: "/images/vision.webp",
+        image: "/images/cardsInfo/visionImage.webp",
         description:
-            "Aspiramos a ser líderes en la creación de un entorno donde la reutilización de productos para bebés sea la norma, no la excepción. Buscamos ser reconocidos como el principal destino en línea que conecta a padres conscientes con artículos de calidad para bebés, al mismo tiempo que abrazamos y fomentamos prácticas comerciales responsables para preservar nuestro entorno para las generaciones futuras. Nuestra visión es la de un mundo donde cada producto utilizado para bebés encuentra un nuevo hogar, contribuyendo así a la construcción de un futuro más sostenible y limpio."
+            "Best Markid lidera la reutilización de productos para bebés, conectando a padres conscientes con artículos de calidad. Nuestra visión: un mundo donde cada producto encuentra un nuevo hogar, construyendo un futuro sostenible.",
     },
 ];
