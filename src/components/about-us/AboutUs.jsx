@@ -12,19 +12,19 @@ export const AboutUs = () => {
                         <Card
                             key={`Info${item.id}`}
                             variant="outlined"
-                            className="border shadow-xl"
+                            className="border shadow-xl sm:h-[24rem]"
                         >
                             <h2 className="p-5 text-center text-orange-800 h2">
                                 {item.name}
                             </h2>
-                            <div className="flex items-center justify-center">
+                            <div className="flex items-center justify-center pt-2">
                                 <img
                                     className="w-32"
                                     src={item.image}
                                     alt={item.name}
                                 />
                             </div>
-                            <div className="m-5 text-lg text-center text-green-900 p2">
+                            <div className="flex items-center pt-6 m-5 text-lg text-center text-green-900 p2">
                                 <p>{item.description}</p>
                             </div>
                         </Card>
